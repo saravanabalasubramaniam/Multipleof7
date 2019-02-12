@@ -9,11 +9,11 @@ class Multiple
         a = input.nextInt();
 	if(a%7==0)
 	{
-		System.out.println("Yes");
+		System.out.println("yes");
 	}
 	else
 	{
-		System.out.println("No");
+		System.out.println("no");
 	}
   }
 }
